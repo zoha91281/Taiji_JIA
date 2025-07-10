@@ -1,4 +1,4 @@
-# taiji_sri
+# Taiji_JIA
 
 **Integrative Transcription Factor Network Analysis in Juvenile Idiopathic Arthritis (JIA)**
 
