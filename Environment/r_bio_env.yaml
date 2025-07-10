@@ -1,0 +1,12 @@
+Name: r_bio_env
+Channels:
+  - conda-forge
+  - bioconda
+Dependencies:
+  - r-base=4.2.2
+  - bioconductor-reactomepa
+  - bioconductor-clusterprofiler
+  - r-readr
+  - r-plyr
+  - r-pheatmap
+  - r-igraph
