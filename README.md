@@ -23,7 +23,7 @@ Juvenile Idiopathic Arthritis (JIA) is a heterogeneous pediatric autoimmune dise
 
 ---
 
-## 🧠 Methodology Overview
+## Methodology Overview
 
 1. **Data Preprocessing**
    - Raw count matrices and peak files downloaded and converted to compatible formats.
