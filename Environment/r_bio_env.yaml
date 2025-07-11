@@ -10,6 +10,3 @@ Dependencies:
   r-plyr
   r-pheatmap
   r-igraph
----
-'conda create -n r_bio_env -c bioconda -c conda-forge r-base=4.2.2 bioconductor-reactomepa bioconductor-clusterprofiler -y'
-'conda activate r_bio_env'
