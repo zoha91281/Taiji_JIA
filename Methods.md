@@ -43,7 +43,7 @@ We used the [**Taiji framework**](https://github.com/OSU-BMBL/taiji) to integrat
   - ATAC-seq peak files (`narrowPeak`)
   - Gene expression matrices (RNA-seq)
   - Chromatin contact predictions (HiChIP/EpiTensor)
-  - Custom Taiji YAML config (see [`taiji_config/config.yaml`](taiji_config/config.yaml))
+  - Custom Taiji YAML config (see [`taiji_config/config.yaml`](Taiji_JIA/config.yaml))
 
 - **Execution:**
   - Taiji maps TF motifs to accessible regions and links them to gene targets using 3D contact data.
